@@ -1,3 +1,0 @@
-/*! For license information please see 29.d331f059.chunk.js.LICENSE.txt */
-(this.webpackJsonpplayground=this.webpackJsonpplayground||[]).push([[29],{1853:function(t,e,r){"use strict";r.r(e),r.d(e,"default",(function(){return a}));var u=r(0),n=r(67),s=r(107),c=r(1);function a(t){var e=t.element,r=t.width,a=Object(u.useRef)(null),i=Object(u.useContext)(n.a).getBaseUriParts;Object(u.useEffect)((function(){a.current&&(a.current.currentTime=e.startTime)}),[e.startTime]);var o=Object(s.b)(e.url,i());return Object(c.jsx)("audio",{id:"audio",ref:a,controls:!0,src:o,className:"stAudio",style:{width:r}})}}}]);
-//# sourceMappingURL=29.d331f059.chunk.js.map
